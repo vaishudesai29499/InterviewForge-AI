@@ -1,0 +1,405 @@
+{
+  "extraction:4bebaa6ffbc5b513c5ee4938098ef7c91976462cfffa89c9b6aad2020b3d9b71": {
+    "value": {
+      "resume": {
+        "candidate": {
+          "name": "Vaishnavi Desai",
+          "email": "vaishnavidesai2925@gmail.com",
+          "phone": "+91 9420039385"
+        },
+        "summary": "Full Stack Developer with 4+ years of experience building scalable web applications using React.js, Python, Flask/ Django, Node.js, and SQL. Experienced in REST API development, backend architecture, and cloud deployment with exposure to AI-powered workflow integration.",
+        "skills": [
+          "React.js",
+          "Next.js",
+          "JavaScript",
+          "TypeScript",
+          "HTML5",
+          "Tailwind CSS",
+          "Responsive Design",
+          "Python",
+          "PHP",
+          "Node.js",
+          "Flask/ Django",
+          "MySQL",
+          "PostgreSQL",
+          "SQL",
+          "REST APIs",
+          "AWS EC2/ S3",
+          "Git / GitHub Actions",
+          "Apache2",
+          "Postman",
+          "API Validation",
+          "Linux / Nginx",
+          "OpenAI API",
+          "Prompt Engineering",
+          "LLM Evaluation",
+          "AI Workflows",
+          "Data Annotation",
+          "CSS3",
+          "Pandas",
+          "NumPy",
+          "phpMyAdmin",
+          "Machine Learning",
+          "Manual Testing",
+          "API Testing"
+        ],
+        "experience": [
+          {
+            "title": "Full Stack & AI Integration Engineer",
+            "company": "Freelance",
+            "duration": "01/2024 – Present",
+            "responsibilities": [
+              "Built AI-powered web applications using Python, REST APIs, and React",
+              "Integrated LLM APIs to automate workflows reducing manual effort by 50%+",
+              "Designed backend systems with authentication, role-based access, and scalable architecture and deployed production-ready applications on AWS",
+              "Evaluated and optimized LLM responses for accuracy and business relevance"
+            ]
+          },
+          {
+            "title": "Full-Stack Web Developer",
+            "company": "Earth Solutions Pvt. Ltd.",
+            "duration": "06/2021 – 10/2023",
+            "responsibilities": [
+              "Developed applications using React.js, Flask, Django, Node.js, and PHP",
+              "Supported 300+ users with optimized backend systems and responsive UI",
+              "Improved application performance optimization by 30% through API integration",
+              "Delivered 20+ production-ready enterprise features"
+            ]
+          },
+          {
+            "title": "Summer Intern - Python Developer",
+            "company": "Earth Solutions Pvt. Ltd.",
+            "duration": "12/2020 – 06/2021",
+            "responsibilities": [
+              "Designed solutions for data processing and visualization using graphs and charts",
+              "Automated customer service workflows using Python and AWS SES",
+              "Built responsive UI components and conducted functional testing"
+            ]
+          }
+        ],
+        "projects": [
+          {
+            "name": "AI Portfolio Platform",
+            "technologies": [
+              "React.js",
+              "JavaScript",
+              "HTML5",
+              "CSS3",
+              "Vercel"
+            ],
+            "description": [
+              "Showcased AI automation workflows, GenAI projects, and full-stack applications",
+              "Optimized responsive UI and deployment workflows for improved performance",
+              "Integrated modern frontend components and responsive layouts for better user experience"
+            ],
+            "achievements": []
+          },
+          {
+            "name": "Automated Trading Analytics Platform(Fiverr)",
+            "technologies": [
+              "Python",
+              "Pandas",
+              "NumPy",
+              "SQL",
+              "REST APIs"
+            ],
+            "description": [
+              "Developed Python-based algorithmic trading platform for automated strategy execution",
+              "Built custom back testing and forward-testing workflows for strategy validation",
+              "Automated technical analysis workflows reducing repetitive manual processing"
+            ],
+            "achievements": []
+          },
+          {
+            "name": "CyberInsurify",
+            "technologies": [
+              "PHP",
+              "React.js",
+              "SQL",
+              "phpMyAdmin",
+              "Machine Learning"
+            ],
+            "description": [
+              "Built ML-based insurance risk scoring model improving pricing accuracy by 25%",
+              "Increased business margins by 18% through predictive modeling and analytics",
+              "Migrated legacy PHP modules to React.js reducing bundle size by 35%"
+            ],
+            "achievements": []
+          },
+          {
+            "name": "LoanShastra",
+            "technologies": [
+              "Python Flask",
+              "SQL",
+              "REST APIs"
+            ],
+            "description": [
+              "Developed loan and client management platform supporting 300+ users",
+              "Automated task allocation and notifications reducing manual workload by 70%",
+              "Integrated REST APIs to streamline internal workflow processes"
+            ],
+            "achievements": []
+          },
+          {
+            "name": "LearnQoch",
+            "technologies": [
+              "Manual Testing",
+              "API Testing"
+            ],
+            "description": [
+              "Optimized API calls and database queries improving response time by 30%",
+              "Performed structured API and functional testing to resolve performance bottlenecks",
+              "Conducted end-to-end testing and bug tracking for application stability"
+            ],
+            "achievements": []
+          }
+        ],
+        "education": [
+          "B.Tech - Computer Science & Engineering, Dr. Babasaheb Ambedkar Technological University (2021, 87.60%)",
+          "Diploma - Computer Science & Technology, MSBTE Mumbai (2018, 78.50%)"
+        ],
+        "certifications": [
+          "Gen AI Powered Data Analytics Job Simulation - Tata Group (Forage)",
+          "AI Engineer Bootcamp - Udemy",
+          "Certified Full Stack Developer - freeCodeCamp",
+          "Machine Learning Training - Dell Technologies"
+        ]
+      },
+      "jd": {
+        "role": "Full Stack / AI Engineer",
+        "company": "",
+        "requiredExperience": 5,
+        "requiredSkills": [
+          "JavaScript",
+          "TypeScript",
+          "HTML5",
+          "CSS3",
+          "React",
+          "Angular",
+          "Next.js",
+          "Node.js",
+          "Python (Django/Flask)",
+          "Java (Spring Boot)",
+          "Relational Databases",
+          "NoSQL databases",
+          "REST APIs",
+          "Microservices",
+          "Serverless architectures",
+          "AWS",
+          "Azure",
+          "GCP",
+          "Docker",
+          "CI/CD pipelines",
+          "Git",
+          "Azure DevOps",
+          "Agentic AI/GenAI/LLM-powered solutions",
+          "Anthropic",
+          "Google",
+          "Open AI",
+          "Claude API",
+          "Claude for Enterprise",
+          "Claude Code",
+          "Gemini API",
+          "Vertex AI Agent Builder",
+          "Grounding",
+          "Google Workspace integration",
+          "GPT-4o",
+          "Assistants API",
+          "Responses API",
+          "OpenAI Agents SDK"
+        ],
+        "preferredSkills": [],
+        "responsibilities": [
+          "Build and deploy Agentic AI/GenAI/LLM-powered solutions in client or production environments",
+          "Build and integrate REST APIs, microservices, and serverless architectures",
+          "Deploy applications on AWS, Azure, or GCP",
+          "Align application pipelines to support AI system architectures"
+        ],
+        "education": [],
+        "keywords": [
+          "Full Stack Development",
+          "GenAI",
+          "LLM",
+          "Agentic AI",
+          "Backend",
+          "Frontend",
+          "Cloud"
+        ]
+      }
+    },
+    "cachedAt": 1789223389257
+  },
+  "semantic-analysis:6c87936c08f7406fe03f448b29b017d4be6e73627040f6c0b29024d8b65e1df4": {
+    "value": {
+      "skillVerdicts": [
+        {
+          "skill": "Java (Spring Boot)",
+          "verdict": "missing",
+          "reason": "The resume shows experience in Python, PHP, and Node.js but contains no mention of Java or Spring Boot."
+        },
+        {
+          "skill": "Relational Databases",
+          "verdict": "match",
+          "reason": "The candidate has strong experience with SQL, MySQL, and PostgreSQL."
+        },
+        {
+          "skill": "Microservices",
+          "verdict": "missing",
+          "reason": "The resume highlights backend architecture and REST APIs but does not mention designing or deploying microservices."
+        },
+        {
+          "skill": "Serverless architectures",
+          "verdict": "missing",
+          "reason": "Cloud deployment experience is listed for AWS EC2/S3, but serverless architectures are not mentioned."
+        },
+        {
+          "skill": "AWS",
+          "verdict": "match",
+          "reason": "The resume explicitly mentions AWS EC2/S3 and AWS SES usage."
+        },
+        {
+          "skill": "Azure",
+          "verdict": "missing",
+          "reason": "There is no mention of Microsoft Azure in the resume."
+        },
+        {
+          "skill": "GCP",
+          "verdict": "missing",
+          "reason": "There is no mention of Google Cloud Platform in the resume."
+        },
+        {
+          "skill": "Docker",
+          "verdict": "missing",
+          "reason": "Containerization tools like Docker are absent from the resume."
+        },
+        {
+          "skill": "CI/CD pipelines",
+          "verdict": "partial",
+          "reason": "The candidate has experience with GitHub Actions, which is related to CI/CD, but full CI/CD pipeline implementation is not explicitly detailed."
+        },
+        {
+          "skill": "Git",
+          "verdict": "match",
+          "reason": "The resume lists Git / GitHub Actions under skills."
+        },
+        {
+          "skill": "Azure DevOps",
+          "verdict": "missing",
+          "reason": "Azure DevOps is not mentioned in the resume."
+        },
+        {
+          "skill": "Agentic AI/GenAI/LLM-powered solutions",
+          "verdict": "match",
+          "reason": "The candidate has direct experience building AI-powered web applications and integrating LLM APIs."
+        },
+        {
+          "skill": "Anthropic",
+          "verdict": "missing",
+          "reason": "Anthropic is not explicitly mentioned in the resume skills or projects."
+        },
+        {
+          "skill": "Google",
+          "verdict": "missing",
+          "reason": "Google AI tools or services are not mentioned in the resume."
+        },
+        {
+          "skill": "Open AI",
+          "verdict": "match",
+          "reason": "The resume explicitly lists OpenAI API, Prompt Engineering, and LLM Evaluation."
+        },
+        {
+          "skill": "Claude API",
+          "verdict": "missing",
+          "reason": "Claude API is not mentioned in the resume."
+        },
+        {
+          "skill": "Claude for Enterprise",
+          "verdict": "missing",
+          "reason": "Claude for Enterprise is not mentioned in the resume."
+        },
+        {
+          "skill": "Claude Code",
+          "verdict": "missing",
+          "reason": "Claude Code is not mentioned in the resume."
+        },
+        {
+          "skill": "Gemini API",
+          "verdict": "missing",
+          "reason": "Gemini API is not mentioned in the resume."
+        },
+        {
+          "skill": "Vertex AI Agent Builder",
+          "verdict": "missing",
+          "reason": "Vertex AI Agent Builder is not mentioned in the resume."
+        },
+        {
+          "skill": "Grounding",
+          "verdict": "missing",
+          "reason": "Grounding techniques are not explicitly mentioned in the resume."
+        },
+        {
+          "skill": "Google Workspace integration",
+          "verdict": "missing",
+          "reason": "Google Workspace integration is not mentioned in the resume."
+        },
+        {
+          "skill": "GPT-4o",
+          "verdict": "missing",
+          "reason": "Specific model versions like GPT-4o are not explicitly listed in the resume."
+        },
+        {
+          "skill": "Assistants API",
+          "verdict": "missing",
+          "reason": "Assistants API is not mentioned in the resume."
+        },
+        {
+          "skill": "Responses API",
+          "verdict": "missing",
+          "reason": "Responses API is not mentioned in the resume."
+        },
+        {
+          "skill": "OpenAI Agents SDK",
+          "verdict": "missing",
+          "reason": "OpenAI Agents SDK is not mentioned in the resume."
+        }
+      ],
+      "experience": {
+        "score": 65,
+        "matchedExperience": [
+          "Full Stack development experience with React, Python, Flask, and Node.js",
+          "Integration of LLM APIs and AI-powered workflow automation",
+          "Deployment of production-ready applications on AWS"
+        ],
+        "experienceGaps": [
+          "Candidate has ~4+ years of experience compared to the required 5 years",
+          "Lack of enterprise microservices and advanced cloud architectures (Docker, Kubernetes, Azure/GCP)"
+        ],
+        "explanation": "The candidate has relevant full-stack and AI integration experience but falls slightly short on total years and lacks specific enterprise architecture tools."
+      },
+      "responsibilities": {
+        "score": 70,
+        "explanation": "The candidate's experience strongly covers building and deploying AI-powered solutions and integrating REST APIs, but has less explicit alignment with complex microservices and multi-cloud deployments."
+      },
+      "projects": {
+        "score": 80,
+        "explanation": "Projects demonstrate strong practical application of React, Python, REST APIs, and generative AI/ML integration, aligning well with the technical expectations of the role."
+      },
+      "education": {
+        "score": 100,
+        "explanation": "The candidate holds a B.Tech in Computer Science & Engineering with a strong academic score (87.60%), perfectly matching technical educational standards."
+      },
+      "strengths": [
+        "Strong combination of full-stack development (React, Python, Node.js) and modern AI/LLM integration.",
+        "Proven track record of optimizing application performance and automating workflows.",
+        "Solid academic foundation in Computer Science with relevant certifications in AI and Machine Learning."
+      ],
+      "topActions": [
+        "Gain hands-on experience with specific enterprise AI frameworks and tools like OpenAI Assistants API and LangChain/Agents SDK.",
+        "Familiarize yourself with containerization (Docker) and microservices architecture to address technical gaps.",
+        "Prepare specific examples of how you optimized LLM responses and integrated AI into production pipelines."
+      ],
+      "summary": "Vaishnavi Desai is a capable Full Stack and AI Integration Engineer with over 4 years of experience building scalable web applications and incorporating LLM workflows. While she excels in frontend/backend development and basic AI integration, she has gaps in specific enterprise cloud tools and advanced AI SDKs required by the job description."
+    },
+    "cachedAt": 1789223394809
+  }
+}
